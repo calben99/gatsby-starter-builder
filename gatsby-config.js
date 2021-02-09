@@ -25,7 +25,7 @@ module.exports = {
       resolve: '@builder.io/gatsby',
       options: {
         /** TODO: update this with your API key! */
-        publicAPIKey: config.builderAPIKey,
+        publicAPIKey: config.5adcc87a71c04ea59245f2aac951f568,
         templates: {
           // Render every `page` model as a new page using the /page.tsx template
           // based on the URL provided in Builder.io
